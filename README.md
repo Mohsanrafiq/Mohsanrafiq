@@ -43,9 +43,9 @@ I’m also the Founder of **UI Node**, where we help brands and agencies build f
 
 ## 📫 How to reach me
 
-- Website: https://uinode.co
-- LinkedIn: Add your LinkedIn profile link here
-- Email: Add your business email here
+- Website: [https://uinode.co](https://uinode.co)
+- LinkedIn: [https://www.linkedin.com/in/mohsanrafiq/](https://www.linkedin.com/in/mohsanrafiq/)
+- Email: mohsan@uinode.co
 
 ---
 
