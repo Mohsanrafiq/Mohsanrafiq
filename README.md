@@ -41,9 +41,9 @@ I’m a Shopify, WordPress, and Webflow Developer with strong experience in CRO,
 
 ## 📫 How to reach me
 
-- Website: [https://uinode.co](https://uinode.co)
+- Website: [https://mohsanrafiq.com](https://mohsanrafiq.com)
 - LinkedIn: [https://www.linkedin.com/in/mohsanrafiq/](https://www.linkedin.com/in/mohsanrafiq/)
-- Email: mohsan@uinode.co
+- Email: mohsan.rafiq19@gmail.com
 
 ---
 
