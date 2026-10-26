@@ -2,8 +2,6 @@
 
 I’m a Shopify, WordPress, and Webflow Developer with strong experience in CRO, A/B testing, and conversion-focused website development.
 
-I’m also the Founder of **UI Node**, where we help brands and agencies build fast, scalable, and high-performing websites.
-
 ## 👀 I’m interested in
 
 - Shopify theme development and custom storefronts
